@@ -1,3 +1,3 @@
-Problem 1 : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Problem 0121 : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-Problem 2 :https://leetcode.com/problems/maximum-subarray/
+Problem 0053 :https://leetcode.com/problems/maximum-subarray/
