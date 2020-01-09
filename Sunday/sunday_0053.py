@@ -1,4 +1,4 @@
-
+# NewConcept
 # I take the following pages to form the answer
 # https://leetcode.com/problems/maximum-subarray/discuss/20193/DP-solution-and-some-thoughts
 # https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6
