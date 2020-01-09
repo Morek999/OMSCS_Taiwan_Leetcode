@@ -16,8 +16,8 @@ ex: `Max_0121_20200106.py`
 ---
 ## Questions (DESC by date)
 - 1/8/2020 - AY
-  - 252. Meeting Rooms: https://leetcode.com/problems/meeting-rooms/
-  - 253. Meeting Rooms II: https://leetcode.com/problems/meeting-rooms-ii/
+  - 0252 Meeting Rooms: https://leetcode.com/problems/meeting-rooms/
+  - 0253 Meeting Rooms II: https://leetcode.com/problems/meeting-rooms-ii/
 - 1/7/2020
-  - 0121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-  - 0053. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/
+  - 0121 Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+  - 0053 Maximum Subarray: https://leetcode.com/problems/maximum-subarray/
