@@ -1,7 +1,7 @@
 # OMSCS_Taiwan_Leetcode
 
-[Code review order & question poster by date](https://docs.google.com/spreadsheets/d/1KuYh8kk7TYKueuf9kOcd6wOhi51u3vo6dusqaNzK1ik/edit#gid=0)  
-[Google Docs for practices before 1/7/2020](https://docs.google.com/document/d/1Os1LEmq0VXcoPmASAMXM0ELjR_hYVqYPDYNwOvFaPYI/edit)
+- [Code review order & question poster by date](https://docs.google.com/spreadsheets/d/1KuYh8kk7TYKueuf9kOcd6wOhi51u3vo6dusqaNzK1ik/edit#gid=0)  
+- [Google Docs for practices before 1/7/2020](https://docs.google.com/document/d/1Os1LEmq0VXcoPmASAMXM0ELjR_hYVqYPDYNwOvFaPYI/edit)
 
 ## Structure
 1. Question poster should select 2 problems that are not selected before from Leetcode  
