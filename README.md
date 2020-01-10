@@ -16,7 +16,6 @@ ex: `Max_0121_20200106.py`
 ---
 ## Questions (DESC by date)
 - 1/9/2020 - Sunday
-  - 
   - 0070 Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
   - 0198 House Robber: https://leetcode.com/problems/house-robber/
 - 1/8/2020 - AY
