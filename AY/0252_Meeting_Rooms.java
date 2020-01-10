@@ -16,3 +16,7 @@ class Solution {
         return true;
     }
 }
+
+// Time: O(n*k) where n = length of intervals and k = max length of single interval in intervals
+// Space: O(n*k) ......
+// This is definitely not a cool method. XD Already peeked the solution and method of sorting the starttime should be better.
