@@ -1,7 +1,4 @@
 
-
-
-
 /*
 My first version solution but only passed like half of the tesing case, but I am too busy to finish this question so I need to peek the answer QQ
 
