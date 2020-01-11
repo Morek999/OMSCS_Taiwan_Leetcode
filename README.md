@@ -15,6 +15,9 @@ ex: `Max_0121_20200106.py`
 
 ---
 ## Questions (DESC by date)
+- 1/10/2020 - Max
+  - 0771 Jewels and Stones https://leetcode.com/problems/jewels-and-stones/
+  - 0807 Max Increase to Keep City Skyline https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 - 1/9/2020 - Sunday
   - 0070 Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
   - 0198 House Robber: https://leetcode.com/problems/house-robber/
