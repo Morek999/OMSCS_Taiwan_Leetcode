@@ -16,35 +16,30 @@ ex: `Max_0121_20200106.py`
 ---
 ## Questions 
 - Week 1 Problem list:
-  - Jason : 0042 Trapping Rain Water https://leetcode.com/problems/trapping-rain-water
-  
-            0146 LRU Cache https://leetcode.com/problems/lru-cache/
-            
-            0002 Add Two Numbers https://leetcode.com/problems/add-two-numbers/
+  - Jason : 
+    - 0042 Trapping Rain Water https://leetcode.com/problems/trapping-rain-water
+    - 0146 LRU Cache https://leetcode.com/problems/lru-cache/
+    - 0002 Add Two Numbers https://leetcode.com/problems/add-two-numbers/
 
-  - GG: 0200 Number of Islands https://leetcode.com/problems/number-of-islands
-  
-        0005 Longest Palindromic Substring https://leetcode.com/problems/longest-palindromic-substring/
-        
-        0004 Median of Two Sorted Arrays https://leetcode.com/problems/median-of-two-sorted-arrays/
+  - GG: 
+    - 0200 Number of Islands https://leetcode.com/problems/number-of-islands
+    - 0005 Longest Palindromic Substring https://leetcode.com/problems/longest-palindromic-substring/
+    - 0004 Median of Two Sorted Arrays https://leetcode.com/problems/median-of-two-sorted-arrays/
 
-  - AY: 0021 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
-  
-        0003 Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
-        
-        0015 3Sum https://leetcode.com/problems/3sum/
+  - AY: 
+    - 0021 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
+    - 0003 Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
+    - 0015 3Sum https://leetcode.com/problems/3sum/
 
-  - Sunday: 0023 Merge k Sorted Lists https://leetcode.com/problems/merge-k-sorted-lists
-  
-            0238 Product of Array Except Self https://leetcode.com/problems/product-of-array-except-self
-            
-            0138 Copy List with Random Pointer https://leetcode.com/problems/copy-list-with-random-pointer/
+  - Sunday: 
+    - 0023 Merge k Sorted Lists https://leetcode.com/problems/merge-k-sorted-lists
+    - 0238 Product of Array Except Self https://leetcode.com/problems/product-of-array-except-self
+    - 0138 Copy List with Random Pointer https://leetcode.com/problems/copy-list-with-random-pointer/
 
-  - Max: 0076 Minimum Window Substring https://leetcode.com/problems/minimum-window-substring
-  
-         0056 Merge Intervals https://leetcode.com/problems/merge-intervals/
-         
-         0297 Serialize and Deserialize Binary Tree https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+  - Max: 
+    - 0076 Minimum Window Substring https://leetcode.com/problems/minimum-window-substring
+    - 0056 Merge Intervals https://leetcode.com/problems/merge-intervals/
+    - 0297 Serialize and Deserialize Binary Tree https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
 - Meeting time: Saturday 7 pm PST/ Sunday 11 am Taiwan time
 ## Previous questions
