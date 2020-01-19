@@ -20,12 +20,10 @@ ex: `Max_0121_20200106.py`
   - Jason : 
     - 0289 Game of Life https://leetcode.com/problems/game-of-life/
     - 0206 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/
-    - 0297 Serialize and Deserialize Binary Tree https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
   - GG: 
     - 0022 Generate Parentheses https://leetcode.com/problems/generate-parentheses/
     - 0033 Search in Rotated Sorted Array https://leetcode.com/problems/search-in-rotated-sorted-array/
-    - 0121 Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
   - AY: 
     - 0054 Spiral Matrix https://leetcode.com/problems/spiral-matrix/
