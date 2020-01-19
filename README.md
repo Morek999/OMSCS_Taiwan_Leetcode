@@ -15,6 +15,35 @@ ex: `Max_0121_20200106.py`
 
 ---
 ## Questions 
+
+- Week 2 Problem list:
+  - Jason : 
+    - 0289 Game of Life https://leetcode.com/problems/game-of-life/
+    - 0206 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/
+    - 0297 Serialize and Deserialize Binary Tree https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+
+  - GG: 
+    - 0022 Generate Parentheses https://leetcode.com/problems/generate-parentheses/
+    - 0033 Search in Rotated Sorted Array https://leetcode.com/problems/search-in-rotated-sorted-array/
+    - 0121 Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+  - AY: 
+    - 0054 Spiral Matrix https://leetcode.com/problems/spiral-matrix/
+    - 0139 Word Break https://leetcode.com/problems/word-break/
+    - 0322 Coin Change https://leetcode.com/problems/coin-change/
+
+  - Sunday: 
+    - 0091 Decode Ways https://leetcode.com/problems/decode-ways/
+    - 0380 Insert Delete GetRandom O(1) https://leetcode.com/problems/insert-delete-getrandom-o1/
+    - 0240 Search a 2D Matrix II https://leetcode.com/problems/search-a-2d-matrix-ii/
+
+  - Max: 
+    - 0041 First Missing Positive https://leetcode.com/problems/first-missing-positive/
+    - 0079 Word Search https://leetcode.com/problems/word-search/
+    - 0049 Group Anagrams https://leetcode.com/problems/group-anagrams/
+
+
+
 - Week 1 Problem list:
   - Jason : 
     - 0042 Trapping Rain Water https://leetcode.com/problems/trapping-rain-water
