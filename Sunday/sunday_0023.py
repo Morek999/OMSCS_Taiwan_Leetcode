@@ -1,6 +1,7 @@
 # refer to https://leetcode.com/problems/merge-k-sorted-lists/solution/
-# Thought:
-
+# 
+# Time: O(N log k) (k is the number of lists)
+# Space: O(1)
 
 class Solution:
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
