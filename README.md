@@ -2,6 +2,7 @@
 
 - [Code review order & question poster by date](https://docs.google.com/spreadsheets/d/1KuYh8kk7TYKueuf9kOcd6wOhi51u3vo6dusqaNzK1ik/edit#gid=0)  
 - [Google Docs for practices before 1/7/2020](https://docs.google.com/document/d/1Os1LEmq0VXcoPmASAMXM0ELjR_hYVqYPDYNwOvFaPYI/edit)
+- [Problem List: Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
 
 ## Structure
 1. Question poster should select 2 problems that are not selected before from Leetcode  
@@ -16,53 +17,60 @@ ex: `Max_0121_20200106.py`
 ---
 ## Questions 
 
+- Week 3 Probelm list:
+  - Jason
+    - 00202 Happy Number https://leetcode.com/problems/happy-number
+    - 00124 Binary Tree Maximum Path Sum https://leetcode.com/problems/binary-tree-maximum-path-sum
+  - GG
+    - 0017 Letter Combinations of a Phone Number https://leetcode.com/problems/letter-combinations-of-a-phone-number
+    - 0011 Container With Most Water https://leetcode.com/problems/container-with-most-water
+  - Max
+    - 007 Reverse Integer https://leetcode.com/problems/reverse-integer
+    - 0046 Permutations https://leetcode.com/problems/permutations
+  - AY
+    - 00166 Fraction to Recurring Decimal https://leetcode.com/problems/fraction-to-recurring-decimal
+    - 0088 Merge Sorted Array https://leetcode.com/problems/merge-sorted-array
+  - Sunday
+    - 00295 Find Median from Data Stream https://leetcode.com/problems/find-median-from-data-stream
+    - 00127 Word Ladder https://leetcode.com/problems/word-ladder
+
 - Week 2 Problem list:
   - Jason : 
     - 0289 Game of Life https://leetcode.com/problems/game-of-life/
     - 0206 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/
-
   - GG: 
     - 0022 Generate Parentheses https://leetcode.com/problems/generate-parentheses/
     - 0033 Search in Rotated Sorted Array https://leetcode.com/problems/search-in-rotated-sorted-array/
-
   - AY: 
     - 0054 Spiral Matrix https://leetcode.com/problems/spiral-matrix/
     - 0139 Word Break https://leetcode.com/problems/word-break/
     - 0322 Coin Change https://leetcode.com/problems/coin-change/
-
   - Sunday: 
     - 0091 Decode Ways https://leetcode.com/problems/decode-ways/
     - 0380 Insert Delete GetRandom O(1) https://leetcode.com/problems/insert-delete-getrandom-o1/
     - 0240 Search a 2D Matrix II https://leetcode.com/problems/search-a-2d-matrix-ii/
-
   - Max: 
     - 0041 First Missing Positive https://leetcode.com/problems/first-missing-positive/
     - 0079 Word Search https://leetcode.com/problems/word-search/
     - 0049 Group Anagrams https://leetcode.com/problems/group-anagrams/
-
-
 
 - Week 1 Problem list:
   - Jason : 
     - 0042 Trapping Rain Water https://leetcode.com/problems/trapping-rain-water
     - 0146 LRU Cache https://leetcode.com/problems/lru-cache/
     - 0002 Add Two Numbers https://leetcode.com/problems/add-two-numbers/
-
   - GG: 
     - 0200 Number of Islands https://leetcode.com/problems/number-of-islands
     - 0005 Longest Palindromic Substring https://leetcode.com/problems/longest-palindromic-substring/
     - 0004 Median of Two Sorted Arrays https://leetcode.com/problems/median-of-two-sorted-arrays/
-
   - AY: 
     - 0021 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
     - 0003 Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
     - 0015 3Sum https://leetcode.com/problems/3sum/
-
   - Sunday: 
     - 0023 Merge k Sorted Lists https://leetcode.com/problems/merge-k-sorted-lists
     - 0238 Product of Array Except Self https://leetcode.com/problems/product-of-array-except-self
     - 0138 Copy List with Random Pointer https://leetcode.com/problems/copy-list-with-random-pointer/
-
   - Max: 
     - 0076 Minimum Window Substring https://leetcode.com/problems/minimum-window-substring
     - 0056 Merge Intervals https://leetcode.com/problems/merge-intervals/
