@@ -16,6 +16,22 @@ ex: `Max_0121_20200106.py`
 
 ---
 ## Questions 
+- Week 4 Probelm list:
+  - Jason
+    - 0140 Word Break II https://leetcode.com/problems/word-break-ii
+    - 0125 Valid Palindrome https://leetcode.com/problems/valid-palindrome
+  - GG
+    - 0010 Regular Expression Matching https://leetcode.com/problems/regular-expression-matching
+    - 0215 Kth Largest Element in an Array https://leetcode.com/problems/kth-largest-element-in-an-array
+  - Max
+    - 0412 Fizz Buzz https://leetcode.com/problems/fizz-buzz
+    - 0341 Flatten Nested List Iterator https://leetcode.com/problems/flatten-nested-list-iterator
+  - AY
+    - 0227 Basic Calculator II https://leetcode.com/problems/basic-calculator-ii
+    - 0098 Validate Binary Search Tree https://leetcode.com/problems/validate-binary-search-tree
+  - Sunday
+    - 0212 Word Search II https://leetcode.com/problems/word-search-ii
+    - 0218 The Skyline Problem https://leetcode.com/problems/the-skyline-problem
 
 - Week 3 Probelm list:
   - Jason
