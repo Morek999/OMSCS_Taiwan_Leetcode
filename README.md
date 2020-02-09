@@ -16,6 +16,23 @@ ex: `Max_0121_20200106.py`
 
 ---
 ## Questions 
+- Week 5 Probelm list:
+  - Jason
+    - 0315 Count of Smaller Numbers After Self https://leetcode.com/problems/count-of-smaller-numbers-after-self
+    - 0347 Top K Frequent Elements https://leetcode.com/problems/top-k-frequent-elements
+  - GG
+    - 0387 First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string
+    - 0048 Rotate Image https://leetcode.com/problems/rotate-image
+  - Max
+    - 0236 Lowest Common Ancestor of a Binary Tree https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+    - 0210 Course Schedule II https://leetcode.com/problems/course-schedule-ii
+  - AY
+    - 0013 Roman to Integer https://leetcode.com/problems/roman-to-integer
+    - 0239 Sliding Window Maximum https://leetcode.com/problems/sliding-window-maximum
+  - Sunday
+    - 0348 Design Tic-Tac-Toe https://leetcode.com/problems/design-tic-tac-toe
+    - 0155 Min Stack https://leetcode.com/problems/min-stack
+
 - Week 4 Probelm list:
   - Jason
     - 0140 Word Break II https://leetcode.com/problems/word-break-ii
