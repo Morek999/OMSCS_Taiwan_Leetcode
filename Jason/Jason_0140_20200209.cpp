@@ -4,7 +4,7 @@ Check the picture I uploaded in the folder for the idea of solving this question
 
 I am not sure the time and space complexity analysis here, check few solutions but not very sure...
 Time complexity: O(n^3), the recursion tree will take o(n^2) and combine will take O(n)
-Space complexity: O(n^3), The depth of the recursion tree can go up to nn and each activation record can contains a string list of size n.
+Space complexity: O(n^3), The depth of the recursion tree can go up to n and each activation record can contains a string list of size n.
 
 */
 class Solution {
@@ -14,7 +14,7 @@ public:
         unordered_map<string,vector<string>> mem;
         return wordBreak(s, dict, mem);
     }
-private:
+private:// catsand 
     // >> combine({"cats and", "cat sand"}, "dog");
     // {"cats and dog", "cat sand dog"}
     vector<string> combine(const vector<string>& prefixes, const string& word) {
