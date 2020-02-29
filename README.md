@@ -18,20 +18,20 @@ ex: `Max_0121_20200106.py`
 ## Questions 
 - Week 6 Probelm list:
   - Jason 
-    - 0105. Construct Binary Tree from Preorder and Inorder Traversal https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-    - 0034. Find First and Last Position of Element in Sorted Array https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+    - 0105 Construct Binary Tree from Preorder and Inorder Traversal https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+    - 0034 Find First and Last Position of Element in Sorted Array https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
   - GG
-    - 0044. Wildcard Matching https://leetcode.com/problems/wildcard-matching/
-    - 0014. Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
+    - 0044 Wildcard Matching https://leetcode.com/problems/wildcard-matching/
+    - 0014 Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
   - Max
-    - 0008. String to Integer (atoi) https://leetcode.com/problems/string-to-integer-atoi/
-    - 0134. Gas Station https://leetcode.com/problems/gas-station/
+    - 0008 String to Integer (atoi) https://leetcode.com/problems/string-to-integer-atoi/
+    - 0134 Gas Station https://leetcode.com/problems/gas-station/
   - AY
-    - 0128. Longest Consecutive Sequence https://leetcode.com/problems/longest-consecutive-sequence/
-    - 0344. Reverse String https://leetcode.com/problems/reverse-string/
+    - 0128 Longest Consecutive Sequence https://leetcode.com/problems/longest-consecutive-sequence/
+    - 0344 Reverse String https://leetcode.com/problems/reverse-string/
   - Sunday
-    - 0283. Move Zeroes https://leetcode.com/problems/move-zeroes/
-    - 0084. Largest Rectangle in Histogram https://leetcode.com/problems/largest-rectangle-in-histogram/
+    - 0283 Move Zeroes https://leetcode.com/problems/move-zeroes/
+    - 0084 Largest Rectangle in Histogram https://leetcode.com/problems/largest-rectangle-in-histogram/
 
 - Week 5 Probelm list:
   - Jason
