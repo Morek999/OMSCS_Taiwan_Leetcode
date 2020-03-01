@@ -140,3 +140,12 @@ ex: `Max_0121_20200106.py`
 - 1/7/2020
   - 0121 Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
   - 0053 Maximum Subarray: https://leetcode.com/problems/maximum-subarray/
+- 1/6/2020
+  - 0169 Majority Element: https://leetcode.com/problems/majority-element/
+  - 0334 Increasing Triplet Subsequence: https://leetcode.com/problems/increasing-triplet-subsequence/
+- 1/5/2020
+  - 0020 Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
+  - 0819 Most Common Word: https://leetcode.com/problems/most-common-word/
+- 1/4/2020
+  - 0001 Two sum: https://leetcode.com/problems/two-sum/
+  - 0026 Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
