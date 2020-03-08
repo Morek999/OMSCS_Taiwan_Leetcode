@@ -16,6 +16,23 @@ ex: `Max_0121_20200106.py`
 
 ---
 ## Questions 
+- Week 7 Problem list:
+  - Jason
+    - 0103 Binary Tree Zigzag Level Order Traversal https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+    - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram
+  - GG
+    - 0300 Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence
+    - 0078 Subsets https://leetcode.com/problems/subsets
+  - Max
+    - 0340 Longest Substring with At Most K Distinct Characters https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+    - 0268 Missing Number https://leetcode.com/problems/missing-number
+  - AY
+    - 0036 Valid Sudoku https://leetcode.com/problems/valid-sudoku
+    - 0204 Count Primes https://leetcode.com/problems/count-primes
+  - Sunday
+    - 0207 Course Schedule https://leetcode.com/problems/course-schedule
+    - 0116 Populating Next Right Pointers in Each Node https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+    
 - Week 6 Probelm list:
   - Jason 
     - 0105 Construct Binary Tree from Preorder and Inorder Traversal https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
