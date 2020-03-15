@@ -1,6 +1,6 @@
 # OMSCS_Taiwan_Leetcode
 
-- [Code review order & question poster by date](https://docs.google.com/spreadsheets/d/1KuYh8kk7TYKueuf9kOcd6wOhi51u3vo6dusqaNzK1ik/edit#gid=0)  
+- [Code review order & question poster by date](https://docs.google.com/spreadsheets/d/1KuYh8kk7TYKueuf9kOcd6wOhi51u3vo6dusqaNzK1ik/edit#gid=319290429)  
 - [Google Docs for practices before 1/7/2020](https://docs.google.com/document/d/1Os1LEmq0VXcoPmASAMXM0ELjR_hYVqYPDYNwOvFaPYI/edit)
 - [Problem List: Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
 
@@ -16,6 +16,23 @@ ex: `Max_0121_20200106.py`
 
 ---
 ## Questions 
+- Week 8 Problem list:
+  - Jason
+    - 0019 Remove Nth Node From End of List https://leetcode.com/problems/remove-nth-node-from-end-of-list
+    - 0075 Sort Colors https://leetcode.com/problems/sort-colors
+  - GG
+    - 0234 Palindrome Linked List https://leetcode.com/problems/palindrome-linked-list
+    - 0149 Max Points on a Line https://leetcode.com/problems/max-points-on-a-line
+  - Max
+    - 0029 Divide Two Integers https://leetcode.com/problems/divide-two-integers
+    - 0152 Maximum Product Subarray https://leetcode.com/problems/maximum-product-subarray
+  - AY
+    - 0122 Best Time to Buy and Sell Stock II https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+    - 0269 Alien Dictionary https://leetcode.com/problems/alien-dictionary
+  - Sunday
+    - 0102 Binary Tree Level Order Traversal https://leetcode.com/problems/binary-tree-level-order-traversal
+    - 0050 Pow(x, n) https://leetcode.com/problems/pow(x,-n)
+
 - Week 7 Problem list:
   - Jason
     - 0103 Binary Tree Zigzag Level Order Traversal https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
