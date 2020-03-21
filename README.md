@@ -31,7 +31,7 @@ ex: `Max_0121_20200106.py`
     - 0269 Alien Dictionary https://leetcode.com/problems/alien-dictionary
   - Sunday
     - 0102 Binary Tree Level Order Traversal https://leetcode.com/problems/binary-tree-level-order-traversal
-    - 0050 Pow(x, n) https://leetcode.com/problems/pow(x,-n)
+    - 0050 Pow(x, n) https://leetcode.com/problems/powx-n/
 
 - Week 7 Problem list:
   - Jason
