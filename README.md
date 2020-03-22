@@ -16,6 +16,23 @@ ex: `Max_0121_20200106.py`
 
 ---
 ## Questions 
+- Week 9 Problem list:
+  - Jason
+    - 0277 Find the Celebrity https://leetcode.com/problems/find-the-celebrity
+    - 0136 Single Number https://leetcode.com/problems/single-number
+  - GG
+    - 0101 Symmetric Tree https://leetcode.com/problems/symmetric-tree
+    - 0329 Longest Increasing Path in a Matrix https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+  - Max
+    - 0328 Odd Even Linked List https://leetcode.com/problems/odd-even-linked-list
+    - 0141 Linked List Cycle https://leetcode.com/problems/linked-list-cycle
+  - AY
+    - 0038 Count and Say https://leetcode.com/problems/count-and-say
+    - 0150 Evaluate Reverse Polish Notation https://leetcode.com/problems/evaluate-reverse-polish-notation
+  - Sunday
+    - 0118 Pascal's Triangle https://leetcode.com/problems/pascal's-triangle
+    - 0062 Unique Paths https://leetcode.com/problems/unique-paths
+    
 - Week 8 Problem list:
   - Jason
     - 0019 Remove Nth Node From End of List https://leetcode.com/problems/remove-nth-node-from-end-of-list
