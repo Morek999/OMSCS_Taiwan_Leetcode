@@ -30,7 +30,7 @@ ex: `Max_0121_20200106.py`
     - 0038 Count and Say https://leetcode.com/problems/count-and-say
     - 0150 Evaluate Reverse Polish Notation https://leetcode.com/problems/evaluate-reverse-polish-notation
   - Sunday
-    - 0118 Pascal's Triangle https://leetcode.com/problems/pascal's-triangle
+    - 0118 Pascal's Triangle https://leetcode.com/problems/pascals-triangle
     - 0062 Unique Paths https://leetcode.com/problems/unique-paths
     
 - Week 8 Problem list:
