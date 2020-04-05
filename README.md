@@ -16,6 +16,23 @@ ex: `Max_0121_20200106.py`
 
 ---
 ## Questions 
+- Week 10 Problem list:
+  - Jason
+    - 0073 Set Matrix Zeroes https://leetcode.com/problems/set-matrix-zeroes
+    - 0055 Jump Game https://leetcode.com/problems/jump-game
+  - GG
+    - 0287 Find the Duplicate Number https://leetcode.com/problems/find-the-duplicate-number
+    - 0395 Longest Substring with At Least K Repeating Characters https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+  - Max
+    - 0160 Intersection of Two Linked Lists https://leetcode.com/problems/intersection-of-two-linked-lists
+    - 0148 Sort List https://leetcode.com/problems/sort-list
+  - AY
+    - 0162 Find Peak Element https://leetcode.com/problems/find-peak-element
+    - 0179 Largest Number https://leetcode.com/problems/largest-number
+  - Sunday
+    - 0131 Palindrome Partitioning https://leetcode.com/problems/palindrome-partitioning
+    - 0108 Convert Sorted Array to Binary Search Tree https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+    
 - Week 9 Problem list:
   - Jason
     - 0277 Find the Celebrity https://leetcode.com/problems/find-the-celebrity
